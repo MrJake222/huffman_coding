@@ -1,4 +1,4 @@
-#include "huffnode.h"
+#include "huffnode.hpp"
 
 namespace detail {
 

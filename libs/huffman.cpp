@@ -1,8 +1,8 @@
-#include "huffman.h"
+#include "huffman.hpp"
 
-#include "bitarray.h"
+#include "bitarray.hpp"
 
-#include "huffnode.h"
+#include "huffnode.hpp"
 using namespace detail;
 
 #include <iostream>

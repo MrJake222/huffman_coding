@@ -1,4 +1,4 @@
-#include "CLI11_wrapper.h"
+#include "CLI11_wrapper.hpp"
 
 // source: https://github.com/CLIUtils/CLI11
 #include "external/CLI11.hpp"

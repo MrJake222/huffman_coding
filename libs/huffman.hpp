@@ -6,11 +6,11 @@
 
 #include <chrono>
 
-#include "linklist.h"
-#include "bitarray.h"
-#include "progress_printer.h"
+#include "linklist.hpp"
+#include "bitarray.hpp"
+#include "progress_printer.hpp"
 
-#include "huffnode.h"
+#include "huffnode.hpp"
 
 namespace hf {
 

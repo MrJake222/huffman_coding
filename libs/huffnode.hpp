@@ -1,7 +1,7 @@
 #pragma once
 
-#include "bitarray.h"
-#include "linklist.h"
+#include "bitarray.hpp"
+#include "linklist.hpp"
 
 namespace detail {
 

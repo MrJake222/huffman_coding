@@ -1,4 +1,4 @@
-#include "progress_printer.h"
+#include "progress_printer.hpp"
 
 #include <iostream>
 using std::cout;

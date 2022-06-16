@@ -6,9 +6,9 @@ using std::endl;
 #include <string>
 #include <filesystem>
 
-#include "libs/huffman.h"
-#include "libs/CLI11_wrapper.h"
-#include "libs/progress_printer.h"
+#include "libs/huffman.hpp"
+#include "libs/CLI11_wrapper.hpp"
+#include "libs/progress_printer.hpp"
 
 int main(int argc, char** argv) {
 

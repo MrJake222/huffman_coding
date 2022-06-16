@@ -1,7 +1,7 @@
 #include <iostream>
 #include <gtest/gtest.h>
 
-#include "libs/bitarray.h"
+#include "libs/bitarray.hpp"
 
 int main(int argc, char** argv) {
     testing::InitGoogleTest(&argc, argv);

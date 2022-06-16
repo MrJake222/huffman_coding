@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 
-#include "../libs/bitarray.h"
+#include "../libs/bitarray.hpp"
 
 using namespace bitarr;
 
