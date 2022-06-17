@@ -35,7 +35,7 @@ no action specified, use exactly one of pack/unpack options
 
 ### Encode
 ```
-$ ./main --pack -s txt/1-passages-head_1K.tsv -d out.bin
+$ ./main --pack -s txt/5-passages-head_10M.txt -d out.bin
 ```
 
 ### Decode
