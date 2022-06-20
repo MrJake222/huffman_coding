@@ -6,7 +6,12 @@
 * Own LinkList implementation as a template,
 * Own progress printer (simple ASCII one),
 * [CLI11](https://github.com/CLIUtils/CLI11) command line options parser,
+* [Google Test](https://github.com/google/googletest) for testing BitArray class,
 * Extracts from Wikipedia as test data.
+
+## Dependencies
+* CLI11 - header-only, provided with this project,
+* Google Test - ***needs to be installed locally***.
 
 ## Usage
 ### Quick test run
@@ -53,7 +58,7 @@ size reduction 30.76%
 took 0.00s
 ```
 
-Example run for 10MB:
+Sample run for 10MB:
 ```
 encoding: txt/5-passages-head_10M.txt --> out.bin
 [####################################################################################################] 100% done
