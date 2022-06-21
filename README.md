@@ -13,6 +13,9 @@
 * CLI11 - header-only, provided with this project,
 * Google Test - ***needs to be installed locally***.
 
+## Limitations
+* Can't be used with binary files (uses null byte as terminating symbol, can be improved of course).
+
 ## Usage
 ### Quick test run
 ```
